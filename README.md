@@ -1,50 +1,44 @@
-Olá, me chamo Samuel Ribeiro! 👋
-Sou um profissional de tecnologia apaixonado por solucionar problemas, atualmente atuando como Analista de Suporte. Minha experiência me proporcionou uma visão aprofundada sobre as necessidades dos usuários e a importância de sistemas estáveis e eficientes. Agora, estou canalizando essa paixão e conhecimento em uma transição de carreira para a área de Desenvolvimento de Software e Administração de Banco de Dados (DBA).
+Analista de Suporte PL | Desenvolvimento Back-End & Administração de Bancos de Dados (DBA)
 
-Vejo a tecnologia não apenas como uma carreira, mas como uma ferramenta poderosa para criar soluções que impactam positivamente a vida das pessoas. Estou em uma jornada de aprendizado contínuo, construindo uma base sólida para me tornar um especialista na minha área de escolha.
+Profissional de tecnologia com atuação focada em análise de causa raiz, integridade de dados e sustentações críticas em ambientes de produção. Atualmente atuo como Analista de Suporte PL na Adaptive, especializando-me nos sistemas ERP RZ Business, com forte domínio de rotinas financeiras, controle de estoque, regras fiscais brasileiras e administração de bancos de dados relacionais.
 
-🚀 Minha Jornada na Tecnologia
-Minha trajetória começou com a linguagem C, que foi fundamental para construir um alicerce sólido em lógica de programação, algoritmos e estrutura de dados. Hoje, meu foco está em expandir e aprimorar minhas habilidades em tecnologias modernas e de alta demanda:
+Com experiência consolidada na resolução de incidentes complexos e suporte avançado (N2), direciono minha evolução profissional para Desenvolvimento de Software e Administração de Bancos de Dados (DBA), unindo visão de negócio, disciplina operacional e engenharia de software.
 
-Databases: Tenho um grande interesse em dados e estou aprofundando meus conhecimentos em SQL para projetar, consultar e gerenciar bancos de dados relacionais com eficiência e segurança.
+COMPETÊNCIAS TÉCNICAS & ÁREAS DE FOCO
 
-Back-End Development: Com C# e o ecossistema .NET, estou aprendendo a construir a lógica de servidor de aplicações robustas, escaláveis e de alta performance.
+Administração de Bancos de Dados (DBA): Experiência prática com PostgreSQL (modelagem, consultas avançadas, views, triggers, funções PL/pgSQL, scripts de saneamento de dados e gerenciamento de pool de conexões com PgBouncer), além de vivência com Firebird e estudos em SQL Server.
 
-Versatilidade com Python: Utilizo Python por sua incrível flexibilidade, aplicando-o em scripts para automação de tarefas, análise de dados e desenvolvimento web.
+Desenvolvimento Back-End & APIs: Construção de APIs REST e serviços em Go (Gin), C# (.NET) e Python, priorizando arquitetura limpa, integração com bancos de dados e confiabilidade.
 
-💡 Projetos e Experiência Prática
-Acredito que o conhecimento se solidifica através da aplicação. Por isso, busco constantemente transformar teoria em prática.
+Automação & Aplicações: Desenvolvimento de automações web com Python (Playwright), aplicações desktop e interfaces web/mobile utilizando Flutter (Dart), HTML5, CSS3 e JavaScript.
 
-Desenvolvimento de Aplicações para Eventos Comunitários
+Domínio de Negócio & Legislação Fiscal: Experiência na operação e diagnóstico de documentos fiscais eletrônicos e obrigações acessórias (NF-e, NFC-e, NFS-e, MDF-e, GNRE, SPED, CFOP, CST/CSOSN, IBS/CBS), além de processos de faturamento e integração financeira.
 
-Como iniciativa de aprendizado, desenvolvi pequenas aplicações web para auxiliar na organização de eventos (gincanas) em minha igreja.
+EXPERIÊNCIA PRÁTICA & PROJETOS
 
-Neste projeto, fui responsável por todo o ciclo: desde o levantamento de requisitos básicos, passando pelo desenvolvimento da lógica da aplicação, até a implantação final.
+APIs & Persistência de Dados: Desenvolvimento de APIs REST em Go (Gin) integradas ao PostgreSQL em ambientes conteinerizados com Docker, além de sistemas CRUD desktop e web construídos em Python e C#.
 
-Utilizei tecnologias modernas para o front-end e o back-end, aplicando meus conhecimentos em C# e Python.
+Automação de Fluxos Web: Implementação de scripts automatizados em Python e Playwright para validação de fluxos de compra, testes funcionais e extração/processamento de dados.
 
-Realizei o deploy na Vercel, o que me deu experiência prática em processos de CI/CD (Continuous Integration/Continuous Deployment) e na gestão de um ambiente de produção.
+Desenvolvimento Web & Deploy: Criação e implantação de aplicações web para gestão e organização de eventos comunitários, conduzindo desde o levantamento de requisitos e desenvolvimento até o deploy contínuo na Vercel.
 
-🎯 Objetivos de Carreira e Próximos Passos
-Estou em busca de uma oportunidade profissional onde eu possa aplicar minha dedicação e minhas habilidades em evolução, ao mesmo tempo em que aprendo com profissionais experientes. Meus objetivos são claros:
+Aplicações Interativas & Mobile: Desenvolvimento de aplicativos multiplataforma em Flutter/Dart e projetos em Go voltados à consolidação de lógica, algoritmos e estruturas de dados.
 
-Como Desenvolvedor: Contribuir ativamente no ciclo de vida de desenvolvimento de software, desde a concepção até o deploy, e evoluir para me tornar um desenvolvedor de alto impacto.
+OBJETIVOS PROFISSIONAIS
 
-Como DBA: Garantir a segurança, a performance e a integridade de bancos de dados críticos para o negócio, me tornando um especialista em gestão de dados.
+Desenvolvimento de Software: Contribuir no ciclo completo de desenvolvimento de aplicações back-end e integrações corporativas, entregando código escalável, testável e de fácil manutenção.
 
-Estou sempre aberto a novos desafios e projetos. Se você tem uma oportunidade que se alinha com minhas habilidades e objetivos, ou simplesmente quer trocar ideias sobre tecnologia, ficarei feliz em conversar!
+Administração de Bancos de Dados (DBA): Atuar na gestão, tunning de performance, alta disponibilidade e segurança de bancos de dados críticos, aplicando conhecimento profundo de SQL e regras de negócio.
 
-🛠️ Competências e Ferramentas
-Linguagens	Banco de Dados	Ferramentas e Plataformas	Competências Interpessoais
-C#	SQL	Git & GitHub	Resolução de Problemas
-Python	(Estudando SQL Server)	Vercel	Comunicação Clara
-C (Fundamentos)	-	Visual Studio Code	Aprendizagem Contínua
-JavaScript (Básico)	-	Visual Studio	Trabalho em Equipe
+STACK TECNOLÓGICA
 
-Exportar para as Planilhas
-📫 Conecte-se Comigo
+Linguagens: SQL, Go, Python, C#, Dart, C, JavaScript, HTML/CSS
+Bancos de Dados: PostgreSQL, Firebird, SQL Server, PgBouncer
+Infraestrutura & DevOps: Docker, Git, GitHub, Vercel, Windows / Linux
+Ferramentas de Trabalho: DBeaver, VS Code, PyCharm, Visual Studio, ReportBuilder
+
+CONTATO
+
 LinkedIn: linkedin.com/in/samuel-ribeiro-58804820a
-
-Email: ribeirosamuel256@gmail.com
-
-Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada de aprendizado!
+GitHub: github.com/Samu3l28
+E-mail: ribeirosamuel256@gmail.com
