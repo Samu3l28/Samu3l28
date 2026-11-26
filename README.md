@@ -48,6 +48,7 @@ Venho do suporte avançado (N2) em ERP, com foco em **análise de causa raiz, in
 | [**mural-estudos**](https://github.com/Samu3l28/mural-estudos) | Quadro de post-its e anotações para organizar os estudos, publicado em [mural-estudos.vercel.app](https://mural-estudos.vercel.app). |
 | [**golang_api**](https://github.com/Samu3l28/golang_api) | API REST em Go. |
 | [**Patrulheiro2000_forms_Purple**](https://github.com/Samu3l28/Patrulheiro2000_forms_Purple) | Aplicação desktop em C# feita no Visual Studio 2022. |
+| [**projetos-academicos**](https://github.com/Samu3l28/projetos-academicos) | Programas dos meus estudos em Java, C++ e HTML, como o UberDevs. |
 
 ## 🎯 Objetivos
 
